@@ -1,0 +1,50 @@
+.nav-bar {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: orangered;
+    height: 500px;
+    width: 50vw;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+img {
+    margin-bottom: 0px;
+    width: 600px;
+}
+
+.contacto {
+    width: 500px;
+    height: 50vh;
+    background-color: rgb(196, 194, 194);
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+button {
+    background-color: black;
+    color: aliceblue;
+}
+
+li {
+    padding: 50px;
+}
